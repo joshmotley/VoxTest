@@ -1,0 +1,6 @@
+framework module Vox {
+  umbrella header "Vox-umbrella.h"
+
+  export *
+  module * { export * }
+}

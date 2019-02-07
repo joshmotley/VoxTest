@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Vox (1.2.0):
+    - Vox/Core (= 1.2.0)
+  - Vox/Core (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Vox
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Vox
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Vox: d3a22c63c18f445dabb41175ccb6ebc1bf31e009
+
+PODFILE CHECKSUM: 093337c4a3785f37f610d80982bd74cca16d87f1
+
+COCOAPODS: 1.5.3
